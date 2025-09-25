@@ -5,11 +5,11 @@
     version: "1.13"
 
   - name: vector
-    src: git@github.com:t585585/vector-role.git
+    src: git@github.com:NIK0801/vector-role.git
     scm: git
     version: "1.0.0"
 
   - name: lighthouse
-    src: git@github.com:t585585/lighthouse-role.git
+    src: git@github.com:NIK0801/lighthouse-role.git
     scm: git
     version: "1.0.0"
